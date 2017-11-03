@@ -1,0 +1,21 @@
+<html t:type="layout" title="About mine"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+      xmlns:p="tapestry:parameter"
+      xmlns:j="tapestry-library:jquery"
+>
+
+    <div class="row">
+        <div class="span12">
+            <p>About mine application ...</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <t:form t:id="searchTheCards" >
+                <t:textfield t:id="searchCards" size="20"/>
+            </t:form>
+        </div>
+    </div>
+
+</html>

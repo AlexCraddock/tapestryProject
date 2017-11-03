@@ -1,0 +1,10 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿ8—‹ÄŞé+
+Wsquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8äÓŞé+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿²®Şé+
+Jsquid:S1481"/Remove this unused "connection" local variable.(œé‰K8äÓŞé+
+csquid:S2259"BA "NullPointerException" could be thrown; "file" is nullable here.(‘¨Ñöúÿÿÿÿ8—‹ÄŞé+
+Gsquid:S1481"+Remove this unused "stream" local variable.(À«â8Ë°ØŞé+
+asquid:S2259"@A "NullPointerException" could be thrown; "br" is nullable here.(ìùÇüûÿÿÿÿ8äÙÖŞé+
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(²áúï8îŠÙŞé+

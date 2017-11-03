@@ -1,0 +1,11 @@
+
+jsquid:UselessImportCheck"CRemove this unused import 'org.apache.tapestry5.services.Response'.(ÉğØêùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íñÈ 
+Nsquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+Osquid:S1118":Add a private constructor to hide the implicit public one.(í±Äç
+nsquid:UselessImportCheck"GRemove this unused import 'org.apache.tapestry5.ioc.annotations.Local'.(˜¯á„şÿÿÿÿ
+psquid:UselessImportCheck"IRemove this unused import 'org.apache.tapestry5.services.RequestHandler'.(½ÇÉ“ÿÿÿÿÿ
+osquid:UselessImportCheck"HRemove this unused import 'org.apache.tapestry5.services.RequestFilter'.(“”á²ıÿÿÿÿ
+lsquid:UselessImportCheck"JRemove this unused import 'org.apache.tapestry5.ioc.OrderedConfiguration'.(ŞÔ€À
+Wsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+isquid:UselessImportCheck"BRemove this unused import 'org.apache.tapestry5.services.Request'.(ôÿª¨ûÿÿÿÿ

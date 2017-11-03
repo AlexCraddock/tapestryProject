@@ -1,0 +1,11 @@
+
+Nsquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+Wsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+osquid:UselessImportCheck"HRemove this unused import 'org.apache.tapestry5.services.RequestFilter'.(“”á²ýÿÿÿÿ
+dsquid:UselessImportCheck"CRemove this unused import 'org.apache.tapestry5.ioc.ServiceBinder'.(âÝª
+psquid:UselessImportCheck"IRemove this unused import 'org.apache.tapestry5.services.RequestHandler'.(½ÇÉ“ÿÿÿÿÿ
+lsquid:UselessImportCheck"JRemove this unused import 'org.apache.tapestry5.ioc.OrderedConfiguration'.(ÞÔ€À
+jsquid:UselessImportCheck"CRemove this unused import 'org.apache.tapestry5.services.Response'.(ÉðØêùÿÿÿÿ
+nsquid:UselessImportCheck"GRemove this unused import 'org.apache.tapestry5.ioc.annotations.Local'.(˜¯á„þÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(†äáÏ
+isquid:UselessImportCheck"BRemove this unused import 'org.apache.tapestry5.services.Request'.(ôÿª¨ûÿÿÿÿ

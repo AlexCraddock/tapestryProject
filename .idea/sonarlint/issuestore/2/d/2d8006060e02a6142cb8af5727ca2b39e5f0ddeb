@@ -1,0 +1,16 @@
+
+ssquid:S00116"VRename this field "Collectible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òöô«8ıŸÈİé+
+Csquid:S1068"'Remove this unused "set" private field.(Ô€…í8ŠÚÏİé+
+Ksquid:S1068"*Remove this unused "attack" private field.(Öæ‡íûÿÿÿÿ8†½°İé+
+Isquid:S1068"(Remove this unused "cost" private field.(Ş‹Â—üÿÿÿÿ8ıŸÈİé+
+Fsquid:S1068"*Remove this unused "rarity" private field.(†üş…8ŠÚÏİé+
+Isquid:S1068"(Remove this unused "text" private field.(Äşÿÿÿÿÿ8øÑİé+
+Ksquid:S1068"*Remove this unused "artist" private field.(†ğÖŠıÿÿÿÿ8»æ®İé+
+Esquid:S1068")Remove this unused "dbfId" private field.(Ìßü¿8ıŸÈİé+
+Fsquid:S1068"*Remove this unused "health" private field.(ßùı8°¢Éİé+
+Ksquid:S1068"/Remove this unused "Collectible" private field.(òöô«8ıŸÈİé+
+Ksquid:S1068"/Remove this unused "playerClass" private field.(ÄÈà±8ŠÚÏİé+
+Nsquid:S1068"-Remove this unused "cardClass" private field.(—¾É‰ûÿÿÿÿ8ıŸÈİé+
+Bsquid:S1068"&Remove this unused "id" private field.(æ¨ç†8°¢Éİé+
+Isquid:S1068"(Remove this unused "type" private field.(–î†ûÿÿÿÿ8ŠÚÏİé+
+Dsquid:S1068"(Remove this unused "race" private field.(ĞÓš8ŠÚÏİé+
